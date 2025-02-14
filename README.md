@@ -1,8 +1,11 @@
-# Hi there, I'm RachanNayak 👋
+# Hi there, I'm <span style="color:blue; font-style:italic;">Rachan Nayak</span> 👋
 
 ## 🚀 About Me
-- 🌱 I’m learning React,TailwindCSS,NextJS,Python.
+- 🌱 I’m learning ReactJS,TailwindCss,NextJS,Python.
 - ⚡ Fun fact:Learning is Something that excites me!!
+
+## 💡 Coder's Thought
+> "First, solve the problem. Then, write the code." 
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
